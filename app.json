@@ -12,7 +12,7 @@
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MD~H4sIAAAAAAAAA5VUa5OiOBT9L/mKNSICKlVdtYgPwAcg2ra9NR8iCTHKyySAONX/fYt+TM9W7c72fqFCHueee8+59wfIcsrxAjfA+AEKRisocLsUTYGBAcZlHGMGOgBBAYEBDpMSq6ISs7N03/pTG2vWVl2S6eFyvB3tc71C6SaY0/C5Vz+Alw4oymNCo98AkiJK62OSuPg6u7i06ZM9LVaTmRIGjWedD8tkUztlpOi3FrBFhJTRjEyLE04xg8kCNz6k7Gv0Q2euqqf+dNNsPSLOMfFGDhnD7uR+XWmju5BhnC9VjzpP+dfob+S6GvarGeP14Ohy7aLPkXbTvKVYPwt/IE3RY6xXYn6pgzf6nJIMIwfhTFDRfLnuF7O/N2kQp+4+loIyLn2S7cnQIt5ue9PPj4HeFUMbo8Vc/RrxcDzNVbtyhtvQRJLnEzLRs4qXbtYcPHvky0HgEo+ypfU34j778Mrl/9R9vyysq7QbBYwvenYd962y0KRwfbqW1yOKi35TTgf+NVVnztfo215+vsey1fCqkgbBLVhZijY+xQ33rqNtXSfkWrlHLZht5E/6UJTsdywnj5HerFbLx+ETKRbaBq0Xw2MfSxZ7nJ7yR8nHMyGuSVk3HtXGT1TpZouREvUOUXGOHdecRkHOyMyf1BWq7sq+uzhbJnl4zeiCGwcBo/fSAQwTygWDguZZuzccdABEVYgjhsVrdcEhPOYHLw8Vd+Wu+7o07qab9ZqZm20TkuMt3CjHYdLVsmalPoAOKFgeYc4xsikXOWtWmHNIMAfGn987IMM38aZbG63f64CYMi52WVkkOUQfon4cwijKy0yETRZZ7QIzYMif21gImhHelrHMIItOtMLWCQoOjBgmHP9MEDOMgCFYiX82rZWjtu6qtVQVW56ADkhf9aAIGEDpq0N5oOk9VVGHRk/5g3+rW1xYFN8yLEAHZLC9DnyWx5jnrXDJ68uePhwqA0Vpv4Oe3r5tD15+km5jICwgTTgwgLWIk1HpWNNVOButnPncPBDTIib4TPLDLG9qdAfEq2WF757OTHjPcnSRF2tbixNpfFfjxS5FjT6ZnE89Ij/8AwgwwGx5SMRN1WbyVZf2uJ+Rs/bkBW7Xt/B5zGH1vD2zQc1CgSK5OF4G5nZZ99DtZo9vKttypzStCfevh9E0GF3V0t2Ppmb90EZDuKIR/jWYm/taaqNBUT4jm0JvXG6bTYNue/g8s/ubXrq/7AQa7/ZQdAPJjZ3N/TadrycWegyF2Aark+8rZuCol2saz8vDZZ3aE/PNxq9tlLyPL/rqsFa+9jem+HUavKv033K+MW9tJ790fgF5HzD/0qTjWFInfL1ms5mqD7Ypst21dd5IT1pMIsluEjeLSlKrKjqswcvL9w4oEijinKXAADw9QtABLC9bEztZnP8mkmXunI/2TSAX5mdjbGmKuYBpAYzeQJNHii4rw7dbPssLG/ITMECf+Dv3Al7+AnqmPkRlBwAA"
     },  
     "MODE": {
       "description": "Set Mode  to 'public' to work in all chats only, 'inbox' to work in pm(inbox) chats only or 'private' to work for you only. Default is 'public'. You can set up this later using .mode",
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "P"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "2348075614248"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
